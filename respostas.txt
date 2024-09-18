@@ -1,0 +1,6 @@
+Para inicializar o GIT em um novo repositório: git init
+Para adicionar as alterações realizadas no repositório: git add
+Para gravas as alterações: git commit -m ""
+Para enviar as alterações para nuvem/repositórios online: git push
+Se o repositório em meu computador estiver desatualizado, como faço para atualizá-lo?
+git pull
